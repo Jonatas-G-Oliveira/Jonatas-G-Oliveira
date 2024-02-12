@@ -5,5 +5,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonatas-G-Oliveira&show_icons=true&theme=dracula)
 
 <div style = "display: inline_block"><br>
-  <img align="center" alt="Nome" heigh = "30" width="40" src="https://github.com/Jonatas-G-Oliveira/main/INTEGRANTES.png"
+  <img align="center" alt="Nome" heigh = "30" width="40" src="![INTEGRANTES 2](https://github.com/Jonatas-G-Oliveira/Jonatas-G-Oliveira/assets/130922069/2deb736d-2a7f-4f5f-a8bd-89d8b8eecefb)
+"
 </div>
