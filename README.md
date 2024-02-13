@@ -14,7 +14,7 @@
   <img align = "right" src="https://github.com/Jonatas-G-Oliveira/Jonatas-G-Oliveira/assets/130922069/2deb736d-2a7f-4f5f-a8bd-89d8b8eecefb" width =" 100px"/>
 </div>
 
-<div>
+<div style = "display">
 	<a href = "https://www.artstation.com/jonatasoliveira3" targert="blank"> <img src ="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 </div>
 
