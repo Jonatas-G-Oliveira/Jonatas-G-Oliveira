@@ -6,6 +6,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonatas-G-Oliveira&show_icons=true&theme=dracula)
 
 <img align = "center" heigh ="30" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+<img align = "center" heigh ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+<img align = "center" heigh ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img align = "center" heigh ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+
 
 
 <div align ="right">
