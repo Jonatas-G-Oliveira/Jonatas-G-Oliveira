@@ -1,6 +1,7 @@
 ## Oii!Eu sou o Jônatas Oliveira 
 
 - 🌱 Sou estudante de computação e entusiasta na área de dados
+- 🌱 Também façõ uns desenhos de vez em quando
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonatas-G-Oliveira&show_icons=true&theme=dracula)
 
