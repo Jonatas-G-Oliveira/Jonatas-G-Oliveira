@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonatas-G-Oliveira&show_icons=true&theme=dracula)
 
-<div style = "Display: inline-block><br>
+<div style = "display: inline-block><br>
  
   <img align = "center" heigh ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
   <img align = "center" heigh ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
