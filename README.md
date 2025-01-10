@@ -18,9 +18,7 @@
 </p>
 
 ## Sobre mim
-- 🌱 Sou estudante de computação e entusiasta na área de dados
-- 🌱 Também faço uns desenhos de vez em quando
-
+- https://jonatas-g-oliveira.github.io/Portfolio/
 
 <div align = "center">
 
